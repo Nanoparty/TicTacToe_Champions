@@ -1,4 +1,8 @@
 # TicTacToe Champions
+
+![version](https://img.shields.io/badge/Version-1.0-green)
+![engine](https://img.shields.io/badge/Engine-Unity-blue)
+
 A TicTacToe game built to experiment with Unity's new Netcode for GameObjects multiplayer functionality. Built in Unity. All paid assets have been removed.
 
 ## Play Now
